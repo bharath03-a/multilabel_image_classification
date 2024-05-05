@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignoring data as it is hude
+extracted_images/*
+
 # C extensions
 *.so
 
