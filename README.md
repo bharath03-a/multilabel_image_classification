@@ -1,2 +1,4 @@
-# multilabel_image_classification
- Deep Learning
+# Multilabel Image Classification
+ Deep Learning G19
+ Bharath Velamala 
+ Pranshu Singh Rawat
